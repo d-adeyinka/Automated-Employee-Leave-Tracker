@@ -26,7 +26,7 @@ This project automates the leave approval workflow using **Airtable** and **Zapi
 
 
 ## 📸 Screenshots
-![Email Notication once a leave request is sent](https://github.com/user-attachments/assets/c4c5714a-529e-414c-915e-0ec507313cc6)
+![Email Notification once a leave request is sent](https://github.com/user-attachments/assets/c4c5714a-529e-414c-915e-0ec507313cc6)
 
 ## 🔮 Future
  Improvements
