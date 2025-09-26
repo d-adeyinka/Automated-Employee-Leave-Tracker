@@ -9,9 +9,10 @@ This project automates the leave approval workflow using **Airtable** and **Zapi
 - Tracks each employee’s total leave requests and remaining leave days
 - **Employees automatically get notified once their leave is approved or rejected** ✅
 
-## 🛠️ Tools & Tech
+## 🛠️ Tech Stack
 - **Airtable** – database for employee leave records  
 - **Zapier** – automation (email + webhook)
+- **Email** - Notification channel
 
 ## ⚙️ Workflow
 1. Employee submits leave request via Airtable form.  
