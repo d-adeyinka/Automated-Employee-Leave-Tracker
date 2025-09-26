@@ -23,3 +23,13 @@ This project automates the leave approval workflow using **Airtable** and **Zapi
    - Total number of leave requests  
    - Remaining leave days  
 6. Employee automatically receives an email update once the leave is approved or rejected.  
+
+
+## 📸 Screenshots
+![Email Notication once a leave request is sent](https://github.com/user-attachments/assets/c4c5714a-529e-414c-915e-0ec507313cc6)
+
+## 🔮 Future
+ Improvements
+- Auto reminders for managers to approve pending requests  
+- Slack/MS Teams integration for approvals  
+- Custom leave allocations per employee  
