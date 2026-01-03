@@ -26,17 +26,17 @@ This project automates the leave approval workflow using **Airtable** and **Zapi
 
 
 ## 📸 Screenshots
-![Leave Request Form](images/pic-1.jpeg)
+![Leave Request Form](images/leave-request-form.jpeg)
 
-![Employee Record on Airtable](images/pic-3.jpeg)
+![Employee Record on Airtable](images/employee-record-airtable.jpeg)
 
-![Leave Request Table on Airtable](images/pic-4.jpeg)
+![Leave Request Table on Airtable](images/leave-request-table-airtable.jpeg)
 
-![Manager Record on Airtable](images/pic-5.jpeg)
+![Manager Record on Airtable](images/manager-record-airtable.jpeg)
 
-![Zapier Workflow 1](images/pics-6.jpeg)
+![Zapier Workflow](images/zapier-workflow.jpeg)
 
-![Automated Email Notification to Manager ](images/Automated_mail_notification_to_manager.jpeg)
+![Manager Email Notification](images/manager-email-notification.jpeg)
 
 ## 🔮 Future
  Improvements
