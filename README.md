@@ -43,3 +43,4 @@ This project automates the leave approval workflow using **Airtable** and **Zapi
 - Auto reminders for managers to approve pending requests  
 - Slack/MS Teams integration for approvals  
 - Custom leave allocations per employee  
+![Automated Email Notification to Manager 2 ](https://miro.medium.com/v2/resize:fit:640/format:webp/1*DBsYf-OlD8ICkrZQepLGAQ.jpeg)
