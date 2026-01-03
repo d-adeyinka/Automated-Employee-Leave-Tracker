@@ -26,19 +26,17 @@ This project automates the leave approval workflow using **Airtable** and **Zapi
 
 
 ## 📸 Screenshots
-![Leave Request Form](<img width="297" height="491" alt="Screenshot 2025-11-06 041136" src="https://github.com/user-attachments/assets/00d81abe-1ef3-4034-8772-5fb63ec84ab0" />)
+![Leave Request Form](images/pic-1.jpeg)
 
-![Employee Record on Airtable](<img width="1228" height="554" alt="Screenshot 2025-10-24 144058" src="https://github.com/user-attachments/assets/21654a84-b54d-4990-b310-e1ee61517770" />)
+![Employee Record on Airtable](images/pic-3.jpeg)
 
-![Leave Request Table](<img width="1313" height="239" alt="Screenshot 2025-10-24 144120" src="https://github.com/user-attachments/assets/ae3905e2-0ccb-49c2-bb49-1194c10771a3" />)
+![Leave Request Table on Airtable](images/pic-4.jpeg)
 
-![Manager Record](<img width="1326" height="414" alt="Screenshot 2025-10-24 144140" src="https://github.com/user-attachments/assets/9801e96d-dedf-4416-b130-89434b4efc63" />)
+![Manager Record on Airtable](images/pic-5.jpeg)
 
-![Zapier Workflow 1](<img width="16384" height="6754" alt="Leave Request Automation - v4" src="https://github.com/user-attachments/assets/54003d50-ec7a-4da8-948a-5912d9295707" />)
+![Zapier Workflow 1](images/pics-6.jpeg)
 
-![Zapier Workflow with Webhook](<img width="16384" height="6754" alt="Leave Approval - v1 (1)" src="https://github.com/user-attachments/assets/17475173-e239-44bc-ad38-7e3040222eef" />)
-
-![Email Notification once a leave request is sent](https://github.com/user-attachments/assets/c4c5714a-529e-414c-915e-0ec507313cc6)
+![Automated Email Notification to Manager ](images/Automated_mail_notification_to_manager.jpeg)
 
 ## 🔮 Future
  Improvements
